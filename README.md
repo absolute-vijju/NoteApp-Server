@@ -40,7 +40,7 @@ This is a simple Rest API for Note App. Where users can create & login his/her a
 
 #### Get All Notes Of  User
 ```http
-  POST /v1/notes
+  GET /v1/notes
 ```
 - Request & Response
 
@@ -74,7 +74,7 @@ This is a simple Rest API for Note App. Where users can create & login his/her a
 #### Delete User
 
 ```http
-  POST /v1/users/delete
+  DELETE /v1/users/delete
 ```
 - Request & Response
 
