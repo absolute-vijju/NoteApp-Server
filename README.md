@@ -1,8 +1,10 @@
 # NoteApp-Server
 
-This is a simple Rest API for Note App. Where users can create & login his/her account and add, update and delete their notes. This server created by Ktor(https://ktor.io/).
+This is a simple Rest API for Note App. Where users can create & login his/her account and add, update and delete their notes. Also uses JWT authentication (https://jwt.io/) to authenticate user. This server created by Ktor(https://ktor.io/).
 
-- [Make sure you set your environment variables in IntelliJ IDEA or other IDE like this.](https://github.com/absolute-vijju/NoteApp-Server/blob/main/.env)
+## Prerequisite
+
+- [Make sure you set your environment variables in IntelliJ IDEA or your favourite IDE like this.](https://github.com/absolute-vijju/NoteApp-Server/blob/main/.env)
 - Also configure your database and tables as I created for this project in Postgresql.
 - Database which I created: notes_db.
 - Tables which I created: note, user.
