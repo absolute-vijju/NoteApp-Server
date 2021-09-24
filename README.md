@@ -5,6 +5,9 @@ This is a simple Rest API for Note App. Where users can create & login his/her a
 ## Prerequisite
 
 - [Make sure you set your environment variables in IntelliJ IDEA or your favourite IDE like this.](https://github.com/absolute-vijju/NoteApp-Server/blob/main/.env)
+ <img src="https://github.com/absolute-vijju/NoteApp-Server/blob/main/images/environment_variable1.png">
+ <img src="https://github.com/absolute-vijju/NoteApp-Server/blob/main/images/environment_variable2.png">
+
 - Also configure your database and tables as I created for this project in Postgresql.
 - Database which I created: notes_db.
 - Tables which I created: note, user.
