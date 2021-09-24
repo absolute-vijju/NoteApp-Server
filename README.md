@@ -56,7 +56,7 @@ This is a simple Rest API for Note App. Where users can create & login his/her a
 - Request & Response
 
 <img src="https://github.com/absolute-vijju/NoteApp-Server/blob/main/images/create_note_token.png">
-<img src="https://github.com/absolute-vijju/NoteApp-Server/blob/main/images/delete_note_params.png">
+<img src="https://github.com/absolute-vijju/NoteApp-Server/blob/main/images/create_note_body.png">
 
 ---
 
